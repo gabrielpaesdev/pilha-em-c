@@ -2,7 +2,7 @@
 
 Código-fonte desenvolvido ao vivo/passo a passo durante a vídeo-aula do canal. O projeto aborda a criação, manipulação e listagem de uma estrutura de dados de **Pilha (LIFO)** em C usando alocação estática.
 
-🎥 **Assista à aula completa no YouTube:** [Clique Aqui]([https://youtube.com](https://www.youtube.com/watch?v=BpYF5egx1_8))
+🎥 **Assista à aula completa no YouTube:** [Clique Aqui](https://www.youtube.com/watch?v=BpYF5egx1_8)
 
 ---
 
